@@ -22,7 +22,7 @@
         "phpstan/phpstan": "^0.11.4",
         "phpunit/phpunit": "^7.5 || ^8.0",
         "symfony/var-dumper": "^4.3",
-        "xuanquynh/php-codesniffer": "^2.0"
+        "xuanquynh/php-codesniffer": "^2.2"
     },
     "autoload": {
         "psr-4": {
