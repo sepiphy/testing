@@ -4,3 +4,5 @@
 ![GitHub](https://img.shields.io/github/license/sepiphy/testing.svg)
 
 The `sepiphy/testing` package
+
+Check the [sepiphy/phptools](https://github.com/sepiphy/phptools) for more details.
