@@ -1,6 +1,6 @@
 {
     "name": "sepiphy/testing",
-    "description": "The \"sepiphy/testing\" package.",
+    "description": "The \"sepiphy/testing\" package",
     "keywords": ["sepiphy", "tools", "phptools", "testing"],
     "type": "library",
     "license": "MIT",
