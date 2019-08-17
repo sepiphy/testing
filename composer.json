@@ -23,7 +23,7 @@
         "phpunit/phpunit": "^8.3",
         "sensiolabs/security-checker": "^6.0",
         "symfony/var-dumper": "^4.3",
-        "xuanquynh/php-codesniffer": "^2.2"
+        "xuanquynh/php-codesniffer": "^2.3"
     },
     "autoload": {
         "psr-4": {
