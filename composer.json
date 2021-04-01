@@ -1,13 +1,13 @@
 {
     "name": "sepiphy/testing",
-    "description": "The \"sepiphy/testing\" package",
+    "description": "A proxy that requires a few popular testing libraries",
     "keywords": ["sepiphy", "tools", "phptools", "testing"],
     "type": "library",
     "license": "MIT",
-    "homepage": "https://github.com/sepiphy/phptools",
+    "homepage": "https://github.com/sepiphy/tools",
     "support": {
-        "issues": "https://github.com/sepiphy/phptools/issues",
-        "source": "https://github.com/sepiphy/phptools"
+        "issues": "https://github.com/sepiphy/tools/issues",
+        "source": "https://github.com/sepiphy/tools"
     },
     "authors": [
         {
@@ -16,19 +16,12 @@
         }
     ],
     "require": {
-        "php": "^7.2",
         "friendsofphp/php-cs-fixer": "^2.14",
         "mockery/mockery": "^1.2",
         "phpstan/phpstan": "^0.12.19",
         "phpunit/phpunit": "^8.3",
         "sensiolabs/security-checker": "^6.0",
-        "symfony/var-dumper": "^4.3",
-        "xuanquynh/php-codesniffer": "^2.3"
-    },
-    "autoload": {
-        "psr-4": {
-            "Sepiphy\\Testing\\": "./"
-        }
+        "symfony/var-dumper": "^4.4 | ^5.2"
     },
     "extra": {
         "branch-alias": {
