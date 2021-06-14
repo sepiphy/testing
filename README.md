@@ -1,4 +1,4 @@
-# A proxy that requires a few popular testing libraries
+# A set of popular PHP testing libraries
 
 I firstly create this package to require a bunch of testing libraries including below to my projects. Then, I think it isn't a good idea because they may require different versions of each some. But this package may be still helpful in a few specific case. For example, when starting a code sample, I can just run "composer require sepiphy/testing" to get needed stuff to test my code and use exact versions later.
 
