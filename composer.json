@@ -1,6 +1,6 @@
 {
     "name": "sepiphy/testing",
-    "description": "A proxy that requires a few popular testing libraries",
+    "description": "A set of popular PHP testing libraries",
     "keywords": ["sepiphy", "tools", "phptools", "testing"],
     "type": "library",
     "license": "MIT",
